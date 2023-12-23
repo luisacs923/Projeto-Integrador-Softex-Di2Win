@@ -1,8 +1,9 @@
-# React + Vite
+# Projeto Integrador - Fast Check-in
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ao clonar o repositório, crie sua branch e trabalhe nela. Para enviar as alterações ao repositório para a main, faça um Pull Request.
 
-Currently, two official plugins are available:
+Para instalar as dependências: `npm install`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para rodar o projeto: `npm run dev`
+
+
