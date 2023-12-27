@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+  <header>
+     <div class="interface">
+        <div class="logo">
+            <a href="">
+                <img src="image 20.png">
+            </a>
+        </div>
+        <div class="trespts">
+            <a href="">
+                <img src="Menu.png" alt="" srcset="">
+            </a>
+        </div>
+        
+      
+     </div>
+  </header>
+<main>
+    <section class="topo-do-site">
+        <div class="interface">
+            <div class="flex">
+                <div class="txt-topo-site">
+                    <h3>
+                        Tire uma foto do seu documento, 
+                         ou selecione da sua galeria:
+                    </h3>
+                    <p>JPEG,PNG ou PDF, até 2MB</p>
+                    <div class="btn-selecionar">
+                        <a href="">
+                            <button>Selecionar</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+                </div>
+                
+
+                <div class="img-topo-site">
+                    <img src="image-regular 1.png" width="80px" alt="">
+
+                </div>
+    </section>
+</main>
+
+<div class="slcdoc">
+    <h3>Escolha o tipo de Documento:</h3>
+ <input class="ipt" type="search" name="" id="">
+</div>
+
+<a class="btn-enviar" href="">
+    <button>Enviar</button>
+</a>
+
+
+
+
+
+<footer>
+  <hr>   
+   <div class="fter">
+
+   <p>Powered by:</p>
+    <img src="Logo Extraidados.png" alt="">
+    <img src="Logo-Softex-PE_PNG 1.png" alt="">
+</div>
+
+
+</footer>
+
+</body>
+</html>
