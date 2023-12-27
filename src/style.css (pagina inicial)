@@ -1,0 +1,142 @@
+*{
+    margin: 0;   
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+   
+}
+
+header{
+    padding: 3%;
+    background-color: #BE0073;  
+
+}
+
+.interface{
+    max-width: 1280px;
+    margin: 0 auto;
+   
+   
+}
+
+.flex{
+    display: flex;
+}
+
+header > .interface{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+}
+
+section.topo-do-site{
+    padding: 100px 6%;
+
+}
+
+section.txt-topo-do-site .flex{
+    align-items: center;
+    justify-content: center;
+}
+
+.topo-do-site h3{
+    margin-left: 8%;
+    color: #263238;
+font-family: Montserrat, sans-serif;
+font-style: normal;
+
+}
+
+.topo-do-site p{
+    color: #6C6C6C;
+font-family: Montserrat, sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: 0 20%;
+}
+
+button{
+background: linear-gradient(180deg, #BE0073 0%, #66003D 100%);
+margin: 40px 91px;
+ display: flex;
+width: 156px;
+height: 38px;
+padding: 6px 65px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+border-radius: 4.747px;
+border: solid #940d5e;
+color: #e9e3e3;
+font-family: Montserrat, sans-serif;
+font-size: 16.879px;
+font-style: normal;
+font-weight: 600;
+}
+
+.btn-enviar{
+    background: linear-gradient(180deg, #BE0073 0%, #66003D 100%);
+    margin: 40px 112px;
+     display: flex;
+    width: 156px;
+    height: 38px;
+    padding: 6px 65px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 4.747px;
+    border: solid #940d5e;
+    color: #e9e3e3;
+    font-family: Montserrat, sans-serif;
+    font-size: 16.879px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.img-topo-site{
+ align-items: center;
+ justify-content: center;
+ margin: -25px 126px;
+
+}
+
+.slcdoc{
+    align-items: center;
+ justify-content: center;
+ text-align: center;
+ margin-left: -3px;
+ color: #263238;
+font-family: Montserrat, sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.ipt{
+    padding: 5px;
+    width: 200px;
+    border-radius: 25px;
+border: 2px solid #C2C2C2;
+}
+
+
+footer{
+    padding: 20px;
+    margin-top: 500px;
+    height: 100px;
+    text-align: center;
+    justify-content: space-between;
+}
