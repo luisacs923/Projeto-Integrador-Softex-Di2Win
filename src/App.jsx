@@ -1,10 +1,16 @@
 import './App.css'
+import Footer from './components/Footer'
+import Header from './components/Header'
+import Upload from './components/Upload'
 
 function App() {
 
   return (
     <>
-     <h1>Aqui vamos colocar os componentes :)</h1>
+     <p>Aqui vamos colocar os componentes :)</p>
+     <Header></Header>
+     <Upload></Upload>
+     <Footer></Footer>
     </>
   )
 }
